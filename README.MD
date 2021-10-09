@@ -4,7 +4,7 @@
 ### server
 - Install python 
 - Install flask 
-```
+
 ### client
 - Install nodejs
 - In cmd cd to client folder
