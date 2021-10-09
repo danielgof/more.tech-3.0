@@ -1,4 +1,4 @@
-# FINODAYS
+# more.tech 3.0
 
 ## Init projects
 ### server
