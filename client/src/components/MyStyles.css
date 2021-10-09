@@ -1,7 +1,7 @@
 .control-block {
     width: 100%;
     height: 5em;
-    margin-left: 10px; 
+    padding-left: 10px; 
 }
 
 .page-btn {
@@ -9,10 +9,55 @@
 }
 
 html {
-    background: #adb5bd;
-    width: 95%;
-    margin: auto;
+    background: #161616;
+    background-size: cover;
 }
+
 .bg-main {
-    background: #adb5bd
+	padding-top: 12px;
+	background: linear-gradient(#325654 10px, #161616 100px);
+
+}
+
+.check-box-mx {
+	margin-left: 10px;
+}
+
+.top-menu-hr {
+	width: 80%;
+	border: 1px solid #c3fffb;
+}
+
+.top-menu {
+}
+
+.top-menu-page-name {
+	font: 38px bold;
+	color:	#ffffff;
+	margin-left: 80px;
+}
+
+.top-menu-buttons {
+	margin-right: 30px;
+	float: right;
+}
+
+#root {
+    margin: 0px;
+    padding: 0px;
+}
+
+.profile {
+	color:	#ffffff;
+}
+
+.body-frame {
+	width: 95%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.user-img {
+	max-width: 50px;
+	margin-bottom: 10px;
 }
