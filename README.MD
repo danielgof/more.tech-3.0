@@ -1,16 +1,10 @@
-# FINODAYS
+# more.tech 3.0
 
 ## Init projects
 ### server
 - Install python 
 - Install flask 
-```
-    pip install Flask
-```
-- Install MySQL driver for python
-```
-    pip install mysql-connector-python
-```
+
 ### client
 - Install nodejs
 - In cmd cd to client folder
