@@ -1,17 +1,29 @@
 # more.tech 3.0
 
-## Init projects
+## Первичная подготовка
 ### server
-- Install python 
-- Install flask 
+- Установить python 
+- Установить flask 
 
 ### client
-- Install nodejs
-- In cmd cd to client folder
+- Установить nodejs
+- Для инициализации проекта и установки нужных пакетов открываем командную строку в папке client и пишем: 
 ``` 
     npm install 
 ```
 ____
 
-## Start project
-Use **start.bat** script
+## Запуск проектов
+- Используйте **start.bat** скрипт для запуска серверного и клиентского приложения
+Или
+- В командной строке в папке client открыем консоль и прописываем:
+```
+	npm start
+```
+- В командной строке в папке server открываем консоль и прописываем:
+```
+	python server.py
+```
+____
+
+В приложении присутствует аутентификация через Auth0
